@@ -1,5 +1,5 @@
 {
-  "sender_email": "jain.aanchal@gmail.com",
-  "sender_app_password": "sowkwtnhwsevltsd",
-  "recipient_emails": ["jain.aanchal@gmail.com", "shubh.mondal@gmail.com"]
+  "sender_email": "your email address",
+  "sender_app_password": "<key>",
+  "recipient_emails": ["email address"]
 }
